@@ -1,2 +1,1 @@
-Hello, This is COMP 3111 Project!!
-![img.png](img.png)
+Hello, This is COMP 3111 Project. ![Screenshot_IntelIj.png](../../Documents/SS/Screenshot_IntelIj.png)
